@@ -47,6 +47,11 @@
 
 1. 带有预估时间的任务列表tasking.md文件
 
+## 如何开始：
+
+1. `git clone https://github.com/tws-practice/student-score-sheet`
+2. 打开并修改项目文件，完成练习。
+
 ## 学习资源
 
 - 编程的精进之法: https://www.zybuluo.com/jtong/note/504192
