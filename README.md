@@ -49,7 +49,7 @@
 
 ## 如何开始：
 
-1. `git clone https://github.com/tws-practice/student-score-sheet`
+1. `git clone https://github.com/tws-practice/basic-tasking`
 2. 打开并修改项目文件，完成练习。
 
 ## 学习资源
